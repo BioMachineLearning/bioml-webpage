@@ -1,0 +1,55 @@
+<section id="team" class="bg-light-gray">
+  <div class="container">
+    <div class="columns">
+        <div class="col-12 text-center">
+            {{ content }}
+        </div>
+    </div>
+    <div class="columns">
+        {% for member in page.header.lead %}
+            <div class="col-12">
+                <div class="team-member">
+                    <img src="{{ page.media[member.pic].url }}" class="img-responsive" alt="" width=150px>
+                    </img>
+                    <h4>{{ member.name }}
+                    </h4>
+                    <p class="text-muted">
+                        {{ member.position }}
+                    </p>
+                    <p class="text-muted">
+                        <a href="mailto:{{ member.email }}">
+                            {{ member.email }}
+                        </a>
+                    </p>
+                </div>
+            </div>
+        {% endfor %}  
+    </div>
+    <div class="columns">
+        {% for member in page.header.people %}
+            <div class="col-2 col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                <div class="team-member">
+                    <img src="{{ page.media[member.pic].url }}" class="img-responsive s-rounded" alt="" width=120px></img>
+                    <h5>{{ member.name }}</h5>
+                    <p class="text-muted">
+                        {{ member.position }}
+                        </p>
+                    <p class="text-muted">
+                        <button class="btn btn-primary btn-action btn-lg">
+                            <i class="icon icon-mail">
+                            </i>
+                        </button>
+                    </p>
+                </div>
+            </div>
+        {% endfor %}  
+    </div>
+    <div class="columns">
+        <div class="col-lg-8 col-lg-offset-2 text-center">
+            <p class="large text-muted">
+                {{ page.header.description }}
+            </p>
+        </div>
+    </div>
+  </div>
+</section>

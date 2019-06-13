@@ -1,0 +1,42 @@
+<section id="team" class="bg-light-gray">
+  <div class="container">
+    <div class="columns">
+        <div class="col-12 text-center">
+            {{ content }}
+        </div>
+    </div>
+    <div class="columns">
+        {% for member in page.header.people %}           
+            <div class="card col-sm-12 col-md-6 col-lg-4 col-xl-3 col-2 text-center">
+                <div class="card-image">
+                    <img src="{{ page.media[member.pic].url }}" 
+                     class="img-responsive" 
+                     alt="Picture of {{ member.name }}"
+                     width=120px>
+                    </img>
+                </div>
+                <div class="card-header">
+                    <div class="card-title h5">
+                        {{ member.name }}
+                    </div>
+                    <div class="card-subtitle text-gray">
+                        {{ member.position }}
+                    </div>
+                    <div class="card-body">
+                        <a class="btn btn-primary" href="mailto:{{ member.email }}">
+                          <i class="la la-envelope">email</i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}  
+    </div>
+    <div class="columns">
+        <div class="col-lg-8 col-lg-offset-2 text-center">
+            <p class="large text-muted">
+                {{ page.header.description }}
+            </p>
+        </div>
+    </div>
+  </div>
+</section>

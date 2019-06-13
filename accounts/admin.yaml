@@ -1,0 +1,11 @@
+state: enabled
+email: m.schmuker@biomachinelearning.net
+fullname: 'Michael Schmuker'
+title: Webmaster
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$zSCYnh73iocTuLtjLjQLju2Nfu/X2NewP/C.h4q9u2RBOstpAnrJq

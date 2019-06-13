@@ -1,0 +1,24 @@
+enabled: true
+production-mode: true
+grid-size: grid-lg
+header-fixed: true
+header-animated: true
+header-dark: false
+header-transparent: false
+sticky-footer: true
+blog-page: /blog
+spectre:
+  exp: false
+  icons: false
+custom_logo_mobile:
+  user/themes/quark/images/logo/bioML-logo.svg:
+    name: bioML-logo.svg
+    type: image/svg+xml
+    size: 5185
+    path: user/themes/quark/images/logo/bioML-logo.svg
+custom_logo:
+  user/themes/quark/images/logo/bioML-logo.svg:
+    name: bioML-logo.svg
+    type: image/svg+xml
+    size: 5185
+    path: user/themes/quark/images/logo/bioML-logo.svg

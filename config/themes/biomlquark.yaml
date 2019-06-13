@@ -1,0 +1,30 @@
+enabled: true
+production-mode: true
+grid-size: grid-lg
+header-fixed: true
+header-animated: true
+header-dark: false
+header-transparent: true
+sticky-footer: true
+blog-page: /blog
+spectre:
+  exp: false
+  icons: false
+streams:
+  schemes:
+    theme:
+      type: ReadOnlyStream
+      prefixes:
+        '': [user/themes/biomlquark, user/themes/quark]
+custom_logo:
+  user/themes/biomlquark/images/logo/bioML-logo.svg:
+    name: bioML-logo.svg
+    type: image/svg+xml
+    size: 5185
+    path: user/themes/biomlquark/images/logo/bioML-logo.svg
+custom_logo_mobile:
+  user/themes/biomlquark/images/logo/bioML-logo.svg:
+    name: bioML-logo.svg
+    type: image/svg+xml
+    size: 5185
+    path: user/themes/biomlquark/images/logo/bioML-logo.svg

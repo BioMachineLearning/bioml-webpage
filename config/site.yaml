@@ -1,0 +1,17 @@
+title: BioMachineLearning
+default_lang: en
+author:
+  name: 'Michael Schmuker'
+  email: m.schmuker@biomachinelearning.net
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'BioMachineLearning is the project page of Michael Schmuker''s group at the Department of Computer Science, University of Hatfield. Event-based data science and AI. Neuromorphic Computing. Olfaction in humans, animals and machines. Data Science for the life sciences.'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
