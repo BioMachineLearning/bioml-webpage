@@ -5,7 +5,7 @@ published: true
 
 # Publications
 
-## Preprints & Accepted Manuscripts
+## Preprints 
 
 **Low-Power Neuromorphic Hardware for Signal Processing Applications.**<br/>
 Rajendran B, Sebastian A, Schmuker M, Srinivasa N, Eleftheriou E (2019).<br/>
@@ -24,7 +24,7 @@ bioRxiv 489666; [https://doi.org/10.1101/489666](https://doi.org/10.1101/489666)
 Drix D, Hafner V, Schmuker M (2018).  <br/>
 bioRxiv 451955. [https://doi.org/10.1101/451955](https://doi.org/10.1101/451955).
 
-## Selected Papers
+## Representative Papers
 
 **Exploiting plume structure to decode gas source distance using metal-oxide sensors. <br/>**
 Schmuker M, Bahr V, and Huerta R (2016).Sensors and Actuators B: Chemical 235:636-646. <br/>
@@ -33,6 +33,10 @@ Schmuker M, Bahr V, and Huerta R (2016).Sensors and Actuators B: Chemical 235:63
 **A neuromorphic network for generic multivariate data classification. <br/>**
 Schmuker M, Pfeil T, Nawrot MP (2014). <br/>
 Proceedings of the National Academy of Science 111(6):2081-2086. [https://doi.org/10.1073/pnas.1303053111](https://doi.org/10.1073/pnas.1303053111) (Open Access)
+
+**Decoding odor quality and intensity in the Drosophila brain.<br/>**
+A. Strutz, J. Soelter, A. Baschwitz, A. Farhan, V. Grabe, J. Rybak, M. Knaden, M. Schmuker, B. S. Hansson, and S. Sachse (2014). <br/>
+Elife 3:e04147. [https://doi.org/10.7554/eLife.04147](https://doi.org/10.7554/eLife.04147) (Open Access)
 
 **Automatic Segmentation of Odour Maps in the Mouse Olfactory Bulb using regularized Non-negative Matrix Factorization.<br/>**
 Soelter J, Schumacher J, Spors H, Schmuker M (2014). <br/>
