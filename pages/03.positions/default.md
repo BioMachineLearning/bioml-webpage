@@ -34,3 +34,6 @@ College Lane<br/>
 Hatfield, Herts<br/>
 AL10 9AB<br/>
 tel: +44 (0)1707 286083<br/>
+
+Image credits: [Media News on Flickr](https://www.flickr.com/photos/98756468@N04/11408214026/in/photolist-io75zh-8MkSZC-FBS1Lh-vN1YTg-92aMd-aBoFwf-5Apqbj-24mp6Cv-fqTtG3-6p6pvF-awu15K-aaYDxC-r8mJAM-muZRtT-kWxpMz-8htGTz-rW1nTp-8gBa1x-rdX1hY-uafB8u-5fCUxy-kWymsN-eVDNT7-grk4jU-qYJ4gC-4wf4QB-vvpR3W-vvpEP9-AHxNv5-uR9TUa-ytnaAw-kKPMkR-kWynes-ohX4qm-4b4EZm-briZug-8N4CCA-vvpKuy-uR1mqL-vvpMaW-vvpUi5-2LuP3f-3eda5b-4b1Umv-vN1W6c-vvpJRj-uR1jNs-uR9TSr-2eqyoxJ-hFDMEX)
+
