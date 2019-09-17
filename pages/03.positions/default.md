@@ -7,6 +7,8 @@ published: true
 
 ## Dual Award PhD (UH/WSU) in Neuromorphic olfaction 
 
+**Status as of 23 August 2019: shortlisting and interviews completed**
+
 An exceptional opportunity for a **dual award PhD** in Neuromorphic olfaction is open at the University of Hertfordshire, UK, that includes a year abroad at Western Sydney University, Australia. The successful candidate will obtain a **PhD degree from both UH and WSU**. 
 
 We offer an exciting 3-year project in Neuromorphic computing under joint supervision of Dr Michael Schmuker (UHERTS), and Dr André van Schaik (WSU). The first and third year of the programme will be spent in the Biocomputation research group at UH, with the second year spent at the International Centre for Neuromorphic Systems, led by André van Schaik (WSU). 
