@@ -12,9 +12,9 @@ Rajendran B, Sebastian A, Schmuker M, Srinivasa N, Eleftheriou E (2019).<br/>
 ArXiv cs.ET 1901.03690. [https://arxiv.org/abs/1901.03690](https://arxiv.org/abs/1901.03690)
 
 **How the visual system can detect feature homogeneity from spike latencies.**<br/>
-Kupper R§, Schmuker M§, Aertsen A, Wachtler T, Körner U, Gewaltig MO (2018). <br/> 
+Kupper R<sup>§</sup>, Schmuker M<sup>§</sup>, Aertsen A, Wachtler T, Körner U, Gewaltig MO (2018). <br/> 
 ArXiv q-bio.NC 1806.03881. [https://arxiv.org/abs/1806.03881](https://arxiv.org/abs/1806.03881)  <br/>
-§joint first authorship.
+*§: joint first authorship.*
 
 **Computational exploration of molecular receptive fields in the olfactory bulb reveals a glomerulus-centric chemical map.**<br/>
 Jan Soelter, Jan Schumacher, Hartwig Spors, Michael Schmuker (2018).<br/>
@@ -23,6 +23,10 @@ bioRxiv 489666; [https://doi.org/10.1101/489666](https://doi.org/10.1101/489666)
 **Sparse Coding with a Somato-Dendritic rule.<br/>**
 Drix D, Hafner V, Schmuker M (2018).  <br/>
 bioRxiv 451955. [https://doi.org/10.1101/451955](https://doi.org/10.1101/451955).
+
+**Growth Rules for the Repair of Asynchronous Irregular Neuronal Networks after Peripheral Lesions.<br/>**
+Sinha A, Metzner C, Davey N, Adams R, Schmuker M, Steuber V (2019).<br/>
+bioRxiv 810846; [https://doi.org/10.1101/810846](https://doi.org/10.1101/810846).
 
 ## Representative Papers
 

@@ -7,7 +7,7 @@ published: true
 
 ## Dual Award PhD (UH/WSU) in Neuromorphic olfaction 
 
-**Status as of 23 August 2019: shortlisting and interviews completed**
+**Status as of October 2019: Position has been filled. **
 
 An exceptional opportunity for a **dual award PhD** in Neuromorphic olfaction is open at the University of Hertfordshire, UK, that includes a year abroad at Western Sydney University, Australia. The successful candidate will obtain a **PhD degree from both UH and WSU**. 
 
