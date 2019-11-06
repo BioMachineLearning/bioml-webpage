@@ -7,10 +7,6 @@ published: true
 
 ## Preprints 
 
-**Low-Power Neuromorphic Hardware for Signal Processing Applications.**<br/>
-Rajendran B, Sebastian A, Schmuker M, Srinivasa N, Eleftheriou E (2019).<br/>
-ArXiv cs.ET 1901.03690. [https://arxiv.org/abs/1901.03690](https://arxiv.org/abs/1901.03690)
-
 **How the visual system can detect feature homogeneity from spike latencies.**<br/>
 Kupper R<sup>§</sup>, Schmuker M<sup>§</sup>, Aertsen A, Wachtler T, Körner U, Gewaltig MO (2018). <br/> 
 ArXiv q-bio.NC 1806.03881. [https://arxiv.org/abs/1806.03881](https://arxiv.org/abs/1806.03881)  <br/>
@@ -57,10 +53,15 @@ Chemistry Central Journal, 1:11. [http://www.journal.chemistrycentral.com/conten
 ### Peer-reviewed articles
 
 #### 2019
+**Low-Power Neuromorphic Hardware for Signal Processing Applications.**<br/>
+Rajendran B, Sebastian A, Schmuker M, Srinivasa N, Eleftheriou E (2019).<br/>
+IEEE Signal Processing Magazine 36(6):97-110. <br/>
+[https://doi.org/10.1109/MSP.2019.2933719](https://doi.org/10.1109/MSP.2019.2933719) (paywalled) |
+[https://arxiv.org/abs/1901.03690](https://arxiv.org/abs/1901.03690) (Open Access)
+
 **An unsupervised neuromorphic clustering algorithm.<br/>**
 Diamond A, Schmuker M, Nowotny T (2019).<br/>
 Biol Cybern, [https://doi.org/10.1007/s00422-019-00797-7](https://doi.org/10.1007/s00422-019-00797-7) (Open Access).
-
 
 #### 2017
 
