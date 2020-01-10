@@ -9,6 +9,11 @@ people:
         position: 'Reader in Data Science<br/>Team lead'
         email: 'm.schmuker@biomachinelearning.net'
     -
+        name: 'Ritesh Kumar'
+        pic: Ritesh-crop.jpg
+        position: 'Royal Society Newton Fellow'
+        email: 'r.kumar8@herts.ac.uk'
+    -
         name: 'Mohammad Tayarani Najaran'
         pic: Mohammad-crop.jpg
         position: 'Vice Chancellor''s Research Fellow'
@@ -31,7 +36,7 @@ people:
     -
         name: 'Shavika Rastogi'
         pic: Shavika-crop.jpg
-        position: 'ERASMUS+ fellow'
+        position: 'ERASMUS+ fellow (Alumna)'
         email: 'rastogi.shavika@gmail.com'
 ---
 
