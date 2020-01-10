@@ -12,10 +12,6 @@ Kupper R<sup>§</sup>, Schmuker M<sup>§</sup>, Aertsen A, Wachtler T, Körner U
 ArXiv q-bio.NC 1806.03881. [https://arxiv.org/abs/1806.03881](https://arxiv.org/abs/1806.03881)  <br/>
 *§: joint first authorship.*
 
-**Computational exploration of molecular receptive fields in the olfactory bulb reveals a glomerulus-centric chemical map.**<br/>
-Jan Soelter, Jan Schumacher, Hartwig Spors, Michael Schmuker (2018).<br/>
-bioRxiv 489666; [https://doi.org/10.1101/489666](https://doi.org/10.1101/489666). 
-
 **Sparse Coding with a Somato-Dendritic rule.<br/>**
 Drix D, Hafner V, Schmuker M (2018).  <br/>
 bioRxiv 451955. [https://doi.org/10.1101/451955](https://doi.org/10.1101/451955).
@@ -51,6 +47,12 @@ Schmuker M, de Bruyne M, Hähnel M and Schneider, G (2007). <br/>
 Chemistry Central Journal, 1:11. [http://www.journal.chemistrycentral.com/content/1/1/11](http://www.journal.chemistrycentral.com/content/1/1/11) (Open Access)
 
 ### Peer-reviewed articles
+
+#### 2020
+**Computational exploration of molecular receptive fields in the olfactory bulb reveals a glomerulus-centric chemical map.**<br/>
+Jan Soelter, Jan Schumacher, Hartwig Spors, Michael Schmuker (2020).<br/>
+Scientific Reports, 10:77. [https://doi.org/10.1038/s41598-019-56863-4](https://doi.org/10.1038/s41598-019-56863-4)
+
 
 #### 2019
 **Low-Power Neuromorphic Hardware for Signal Processing Applications.**<br/>
