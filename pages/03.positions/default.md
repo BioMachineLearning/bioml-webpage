@@ -1,13 +1,12 @@
 ---
-title: Open Positions
+title: 'Open Positions'
 published: true
+visible: true
 ---
 
 ![Brain](Brain.jpg)
 
 ## Dual Award PhD (UH/WSU) in Neuromorphic olfaction 
-
-**Status as of October 2019: Position has been filled. **
 
 An exceptional opportunity for a **dual award PhD** in Neuromorphic olfaction is open at the University of Hertfordshire, UK, that includes a year abroad at Western Sydney University, Australia. The successful candidate will obtain a **PhD degree from both UH and WSU**. 
 
@@ -21,9 +20,9 @@ The position comes with a bursary of £15,009 per year. Airfare to and from WSU 
 
 There is no restriction on the candidate’s current country of residence. 
 
-Interested? Please get in touch informally with [Dr. Michael Schmuker](mailto:m.schmuker@herts.ac.uk) by email as soon as possible. Don’t delay!
+Interested? Please get in touch informally with [Dr. Michael Schmuker](mailto:m.schmuker@herts.ac.uk) by email as soon as possible. 
 
-Shortlisting will begin on 29th July 2019 (extended deadline). 
+The intended starting date is September 2020. Applications will be accepted until the position is filled. 
 
 ### How to apply
 
