@@ -12,10 +12,6 @@ Kupper R<sup>§</sup>, Schmuker M<sup>§</sup>, Aertsen A, Wachtler T, Körner U
 ArXiv q-bio.NC 1806.03881. [https://arxiv.org/abs/1806.03881](https://arxiv.org/abs/1806.03881)  <br/>
 *§: joint first authorship.*
 
-**Sparse Coding with a Somato-Dendritic rule.<br/>**
-Drix D, Hafner V, Schmuker M (2018).  <br/>
-bioRxiv 451955. [https://doi.org/10.1101/451955](https://doi.org/10.1101/451955).
-
 **Growth Rules for the Repair of Asynchronous Irregular Neuronal Networks after Peripheral Lesions.<br/>**
 Sinha A, Metzner C, Davey N, Adams R, Schmuker M, Steuber V (2019).<br/>
 bioRxiv 810846; [https://doi.org/10.1101/810846](https://doi.org/10.1101/810846).
@@ -49,6 +45,12 @@ Chemistry Central Journal, 1:11. [http://www.journal.chemistrycentral.com/conten
 ### Peer-reviewed articles
 
 #### 2020
+**Sparse Coding with a Somato-Dendritic rule.<br/>**
+Drix D, Hafner V, Schmuker M (2018).  <br/>
+Accepted for publication in Neural Networks. Preprint at 
+bioRxiv 451955. [https://doi.org/10.1101/451955](https://doi.org/10.1101/451955).
+
+
 **Computational exploration of molecular receptive fields in the olfactory bulb reveals a glomerulus-centric chemical map.**<br/>
 Jan Soelter, Jan Schumacher, Hartwig Spors, Michael Schmuker (2020).<br/>
 Scientific Reports, 10:77. [https://doi.org/10.1038/s41598-019-56863-4](https://doi.org/10.1038/s41598-019-56863-4)
