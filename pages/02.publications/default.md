@@ -7,6 +7,11 @@ published: true
 
 ## Preprints 
 
+**More than smell. COVID-19 is associated with severe impairment of smell, taste, and chemesthesis.** <br/>
+Parma V, and members of the GCCR consortium<sup>&ddagger;</sup> (2020). <br/>
+medRxiv 2020.05.04.20090902; doi: [https://doi.org/10.1101/2020.05.04.20090902](https://doi.org/10.1101/2020.05.04.20090902) <br/>
+&ddagger;: including M Schmuker and R Kumar. Full author list is provided with the medrxiv entry. 
+
 **How the visual system can detect feature homogeneity from spike latencies.**<br/>
 Kupper R<sup>§</sup>, Schmuker M<sup>§</sup>, Aertsen A, Wachtler T, Körner U, Gewaltig MO (2018). <br/> 
 ArXiv q-bio.NC 1806.03881. [https://arxiv.org/abs/1806.03881](https://arxiv.org/abs/1806.03881)  <br/>
