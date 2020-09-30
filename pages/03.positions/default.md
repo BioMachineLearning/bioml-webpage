@@ -4,9 +4,42 @@ published: true
 visible: true
 ---
 
-![Brain](Brain.jpg)
+## 1. Two Research Fellows in Neuromorphic Olfaction
 
-## Dual Award PhD (UH/WSU) in Neuromorphic olfaction 
+Apply to join an interdisciplinary team of computational neuroscientists, AI researchers and computer scientists to investigate the neuro-computational principles of the sense of smell and translate them into approaches for machine and robot olfaction.
+
+Two positions are available, funded through the NSF/MRC NeuroNex grant “Odor2Action”, an international consortium of 16 world-leading research groups from the US, Canada, and the UK. The consortium will apply their joint expertise in computational and experimental neuroscience, behavioural studies, fluid dynamics, and fragrance chemistry to unlock how brains use natural stimuli to generate adaptive natural behaviours.
+
+The UH team will investigate real-time machine olfaction using biologically realistic spiking networks, on neuromorphic hardware, embodied in robots, performing olfactory navigation in real time. We will also use machine learning to analyse experimental data provided by collaborators and to gain a deeper insight into fragrance space.
+
+### Main duties & responsibilities
+The successful candidate will join an interdisciplinary team to investigate the neuroscientific principles of the sense of smell and translate them into approaches for machine and robot olfaction.
+
+You will design and carry out research in collaboration with members of the group and project partners worldwide, publish your results, participate in meetings in the group and with the project partners and advise junior team members to carry out research.
+
+### Skills and experience needed
+We are looking for candidates who have broad interests, but also have deep expertise in at least one relevant area, e.g. machine learning (including deep and recurrent networks), spiking network modelling, spiking neuromorphic platforms such as SpiNNaker, BrainScaleS, Loihi, Dynapse etc., or computational chemistry/cheminformatics. Previous exposure to robotic sensors and actuators and hands-on electronics is a plus.
+
+Experience in successfully establishing a programme of research, working collaboratively with other scientists, and disseminating results is essential as is mentoring and supervising junior research staff and students.
+
+### Qualifications required
+A PhD or equivalent in a relevant subject or equivalent research experience in computational neuroscience, neuromorphic computing, machine learning, computer science or another relevant area is essential.
+
+### Research environment
+The neuromorphic olfaction team is embedded in the Biocomputation Research Group, providing a rich and inspiring interdisciplinary research environment at the intersection of between Computer Science, Neuroscience, and Machine Learning. Computer Science research at UH excels in Biocomputation, Algorithms and Adaptive Systems/Robotics.
+
+We welcome diversity and equality in our team.
+
+Please contact Contact Details/Informal Enquiries: [Dr Michael Schmuker]( mailto:m.schmuker@herts.ac.uk).
+
+**Apply via [https://www.jobs.herts.ac.uk](https://www.jobs.herts.ac.uk), vacancy reference 029755.**
+
+Closing Date: 6th October 2020 (to be extended)<br/>
+Salary: £33,797 to £40,322 per annum by annual increments dependent on achieving designated skills and experience.<br/>
+Duration of contract: Fixed term until 13/8/2023.<br/>
+Location: College Lane Campus, Hatfield, University of Hertfordshire, UK.
+
+## 2. Dual Award PhD (UH/WSU) in Neuromorphic olfaction 
 
 An exceptional opportunity for a **dual award PhD** in Neuromorphic olfaction is open at the University of Hertfordshire, UK, that includes a year abroad at Western Sydney University, Australia. The successful candidate will obtain a **PhD degree from both UH and WSU**. 
 
@@ -36,5 +69,5 @@ Hatfield, Herts<br/>
 AL10 9AB<br/>
 tel: +44 (0)1707 286083<br/>
 
-Image credits: [Media News on Flickr](https://www.flickr.com/photos/98756468@N04/11408214026/in/photolist-io75zh-8MkSZC-FBS1Lh-vN1YTg-92aMd-aBoFwf-5Apqbj-24mp6Cv-fqTtG3-6p6pvF-awu15K-aaYDxC-r8mJAM-muZRtT-kWxpMz-8htGTz-rW1nTp-8gBa1x-rdX1hY-uafB8u-5fCUxy-kWymsN-eVDNT7-grk4jU-qYJ4gC-4wf4QB-vvpR3W-vvpEP9-AHxNv5-uR9TUa-ytnaAw-kKPMkR-kWynes-ohX4qm-4b4EZm-briZug-8N4CCA-vvpKuy-uR1mqL-vvpMaW-vvpUi5-2LuP3f-3eda5b-4b1Umv-vN1W6c-vvpJRj-uR1jNs-uR9TSr-2eqyoxJ-hFDMEX)
+
 

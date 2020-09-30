@@ -7,11 +7,6 @@ published: true
 
 ## Preprints 
 
-**More than smell. COVID-19 is associated with severe impairment of smell, taste, and chemesthesis.** <br/>
-Parma V, and members of the GCCR consortium<sup>&ddagger;</sup> (2020). <br/>
-medRxiv 2020.05.04.20090902; doi: [https://doi.org/10.1101/2020.05.04.20090902](https://doi.org/10.1101/2020.05.04.20090902) <br/>
-&ddagger;: including M Schmuker and R Kumar. Full author list is provided with the medrxiv entry. 
-
 **How the visual system can detect feature homogeneity from spike latencies.**<br/>
 Kupper R<sup>§</sup>, Schmuker M<sup>§</sup>, Aertsen A, Wachtler T, Körner U, Gewaltig MO (2018). <br/> 
 ArXiv q-bio.NC 1806.03881. [https://arxiv.org/abs/1806.03881](https://arxiv.org/abs/1806.03881)  <br/>
@@ -27,13 +22,13 @@ bioRxiv 810846; [https://doi.org/10.1101/810846](https://doi.org/10.1101/810846)
 Schmuker M, Bahr V, and Huerta R (2016).Sensors and Actuators B: Chemical 235:636-646. <br/>
 [https://doi.org/10.1016/j.snb.2016.05.098](https://doi.org/10.1016/j.snb.2016.05.098) (paywalled) | [https://arxiv.org/abs/1602.01815](https://arxiv.org/abs/1602.01815) (Open Access)
 
+**Computational exploration of molecular receptive fields in the olfactory bulb reveals a glomerulus-centric chemical map.**<br/>
+Jan Soelter, Jan Schumacher, Hartwig Spors, Michael Schmuker (2020).<br/>
+Scientific Reports, 10:77. [https://doi.org/10.1038/s41598-019-56863-4](https://doi.org/10.1038/s41598-019-56863-4)
+
 **A neuromorphic network for generic multivariate data classification. <br/>**
 Schmuker M, Pfeil T, Nawrot MP (2014). <br/>
 Proceedings of the National Academy of Science 111(6):2081-2086. [https://doi.org/10.1073/pnas.1303053111](https://doi.org/10.1073/pnas.1303053111) (Open Access)
-
-**Decoding odor quality and intensity in the Drosophila brain.<br/>**
-A. Strutz, J. Soelter, A. Baschwitz, A. Farhan, V. Grabe, J. Rybak, M. Knaden, M. Schmuker, B. S. Hansson, and S. Sachse (2014). <br/>
-Elife 3:e04147. [https://doi.org/10.7554/eLife.04147](https://doi.org/10.7554/eLife.04147) (Open Access)
 
 **Automatic Segmentation of Odour Maps in the Mouse Olfactory Bulb using regularized Non-negative Matrix Factorization.<br/>**
 Soelter J, Schumacher J, Spors H, Schmuker M (2014). <br/>
@@ -50,6 +45,11 @@ Chemistry Central Journal, 1:11. [http://www.journal.chemistrycentral.com/conten
 ### Peer-reviewed articles
 
 #### 2020
+**More than smell. COVID-19 is associated with severe impairment of smell, taste, and chemesthesis.** <br/>
+Parma V, and members of the GCCR consortium<sup>&ddagger;</sup> (2020). <br/>
+Chemical Senses, *in press*, bjaa041, [https://doi.org/10.1093/chemse/bjaa041](bjaa041, https://doi.org/10.1093/chemse/bjaa041)
+&ddagger;: including M Schmuker and R Kumar. Full author list is provided with the medrxiv entry. 
+
 **Sparse Coding with a Somato-Dendritic rule.<br/>**
 Drix D, Hafner V, Schmuker M (2018).  <br/>
 Accepted for publication in Neural Networks. Preprint at 
