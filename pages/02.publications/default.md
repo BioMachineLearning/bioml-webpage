@@ -7,6 +7,10 @@ published: true
 
 ## Preprints 
 
+**Resolving fast transients with Metal-Oxide gas sensors**<br/>
+Drix D, Schmuker M (2020).<br/>
+ArXiv eess.SP 2010.01903. [https://arxiv.org/abs/2010.01903](https://arxiv.org/abs/2010.01903). 
+
 **How the visual system can detect feature homogeneity from spike latencies.**<br/>
 Kupper R<sup>§</sup>, Schmuker M<sup>§</sup>, Aertsen A, Wachtler T, Körner U, Gewaltig MO (2018). <br/> 
 ArXiv q-bio.NC 1806.03881. [https://arxiv.org/abs/1806.03881](https://arxiv.org/abs/1806.03881)  <br/>
