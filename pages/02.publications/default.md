@@ -7,7 +7,7 @@ published: true
 
 ## Preprints 
 
-**Resolving fast transients with Metal-Oxide gas sensors**<br/>
+**Resolving fast transients with Metal-Oxide gas sensors.**<br/>
 Drix D, Schmuker M (2020).<br/>
 ArXiv eess.SP 2010.01903. [https://arxiv.org/abs/2010.01903](https://arxiv.org/abs/2010.01903). 
 
