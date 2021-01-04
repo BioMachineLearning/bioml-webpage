@@ -11,10 +11,9 @@ published: true
 Drix D, Schmuker M (2020).<br/>
 ArXiv eess.SP 2010.01903. [https://arxiv.org/abs/2010.01903](https://arxiv.org/abs/2010.01903). 
 
-**How the visual system can detect feature homogeneity from spike latencies.**<br/>
-Kupper R<sup>§</sup>, Schmuker M<sup>§</sup>, Aertsen A, Wachtler T, Körner U, Gewaltig MO (2018). <br/> 
+**Feed-forward and noise-tolerant detection of feature homogeneity in spiking networks with a latency code.**<br/>
+Schmuker M, Kupper R, Aertsen A, Wachtler T, Gewaltig MO (2020). <br/> 
 ArXiv q-bio.NC 1806.03881. [https://arxiv.org/abs/1806.03881](https://arxiv.org/abs/1806.03881)  <br/>
-*§: joint first authorship.*
 
 **Growth Rules for the Repair of Asynchronous Irregular Neuronal Networks after Peripheral Lesions.<br/>**
 Sinha A, Metzner C, Davey N, Adams R, Schmuker M, Steuber V (2019).<br/>
@@ -51,18 +50,17 @@ Chemistry Central Journal, 1:11. [http://www.journal.chemistrycentral.com/conten
 #### 2020
 **More than smell. COVID-19 is associated with severe impairment of smell, taste, and chemesthesis.** <br/>
 Parma V, and members of the GCCR consortium<sup>&ddagger;</sup> (2020). <br/>
-Chemical Senses, *in press*, bjaa041, [https://doi.org/10.1093/chemse/bjaa041](bjaa041, https://doi.org/10.1093/chemse/bjaa041)
-&ddagger;: including M Schmuker and R Kumar. Full author list is provided with the medrxiv entry. 
+Chemical Senses, 45:609-622. [https://doi.org/10.1093/chemse/bjaa041](https://doi.org/10.1093/chemse/bjaa041) (Open Access).<br/>
+&ddagger;: including M Schmuker and R Kumar. Full author list is provided with the journal entry. 
 
 **Sparse Coding with a Somato-Dendritic rule.<br/>**
 Drix D, Hafner V, Schmuker M (2018).  <br/>
-Accepted for publication in Neural Networks. Preprint at 
-bioRxiv 451955. [https://doi.org/10.1101/451955](https://doi.org/10.1101/451955).
+Neural Networks, 131:37-49. [https://doi.org/10.1016/j.neunet.2020.06.007](https://doi.org/10.1016/j.neunet.2020.06.007) (Open Access).
 
 
 **Computational exploration of molecular receptive fields in the olfactory bulb reveals a glomerulus-centric chemical map.**<br/>
 Jan Soelter, Jan Schumacher, Hartwig Spors, Michael Schmuker (2020).<br/>
-Scientific Reports, 10:77. [https://doi.org/10.1038/s41598-019-56863-4](https://doi.org/10.1038/s41598-019-56863-4)
+Scientific Reports, 10:77. [https://doi.org/10.1038/s41598-019-56863-4](https://doi.org/10.1038/s41598-019-56863-4) (Open Access).
 
 
 #### 2019
@@ -74,7 +72,7 @@ IEEE Signal Processing Magazine 36(6):97-110. <br/>
 
 **An unsupervised neuromorphic clustering algorithm.<br/>**
 Diamond A, Schmuker M, Nowotny T (2019).<br/>
-Biol Cybern, [https://doi.org/10.1007/s00422-019-00797-7](https://doi.org/10.1007/s00422-019-00797-7) (Open Access).
+Biolgical Cybernetics, 113:423-437. [https://doi.org/10.1007/s00422-019-00797-7](https://doi.org/10.1007/s00422-019-00797-7) (Open Access).
 
 #### 2017
 
