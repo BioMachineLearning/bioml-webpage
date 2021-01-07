@@ -54,7 +54,7 @@ Chemical Senses, 45:609-622. [https://doi.org/10.1093/chemse/bjaa041](https://do
 &ddagger;: including M Schmuker and R Kumar. Full author list is provided with the journal entry. 
 
 **Sparse Coding with a Somato-Dendritic rule.<br/>**
-Drix D, Hafner V, Schmuker M (2018).  <br/>
+Drix D, Hafner V, Schmuker M (2020).  <br/>
 Neural Networks, 131:37-49. [https://doi.org/10.1016/j.neunet.2020.06.007](https://doi.org/10.1016/j.neunet.2020.06.007) (Open Access).
 
 
