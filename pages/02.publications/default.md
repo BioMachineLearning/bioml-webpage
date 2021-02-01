@@ -7,19 +7,16 @@ published: true
 
 ## Preprints 
 
-**Resolving fast transients with Metal-Oxide gas sensors.**<br/>
-Drix D, Schmuker M (2020).<br/>
-ArXiv eess.SP 2010.01903. [https://arxiv.org/abs/2010.01903](https://arxiv.org/abs/2010.01903). 
-
-**Feed-forward and noise-tolerant detection of feature homogeneity in spiking networks with a latency code.**<br/>
-Schmuker M, Kupper R, Aertsen A, Wachtler T, Gewaltig MO (2020). <br/> 
-ArXiv q-bio.NC 1806.03881. [https://arxiv.org/abs/1806.03881](https://arxiv.org/abs/1806.03881)  <br/>
-
 **Growth Rules for the Repair of Asynchronous Irregular Neuronal Networks after Peripheral Lesions.<br/>**
 Sinha A, Metzner C, Davey N, Adams R, Schmuker M, Steuber V (2019).<br/>
 bioRxiv 810846; [https://doi.org/10.1101/810846](https://doi.org/10.1101/810846).
 
 ## Representative Papers
+
+**Resolving fast gas transients with Metal-Oxide sensors.**<br/>
+Drix D, Schmuker M (2021).<br/>
+ACS Sensors, *in press*. <br/>
+Preprint: ArXiv eess.SP 2010.01903. [https://arxiv.org/abs/2010.01903](https://arxiv.org/abs/2010.01903). 
 
 **Exploiting plume structure to decode gas source distance using metal-oxide sensors. <br/>**
 Schmuker M, Bahr V, and Huerta R (2016).Sensors and Actuators B: Chemical 235:636-646. <br/>
@@ -41,13 +38,22 @@ NeuroImage 98:279-288. [https://doi.org/10.1016/j.neuroimage.2014.04.041](https:
 Schmuker M, Schneider G (2007). <br/>
 Proceedings of the National Academy of Science, 104:20285-20289. [https://doi.org/10.1073/pnas.0705683104](https://doi.org/10.1073/pnas.0705683104) (Open Access)
 
-**Predicting olfactory receptor neuron responses from odorant structure.<br/>**
-Schmuker M, de Bruyne M, Hähnel M and Schneider, G (2007). <br/>
-Chemistry Central Journal, 1:11. [http://www.journal.chemistrycentral.com/content/1/1/11](http://www.journal.chemistrycentral.com/content/1/1/11) (Open Access)
-
 ### Peer-reviewed articles
 
+#### 2021
+
+**Resolving fast gas transients with Metal-Oxide sensors.**<br/>
+Drix D, Schmuker M (2021).<br/>
+ACS Sensors, *in press*. <br/>
+Preprint: ArXiv eess.SP 2010.01903. [https://arxiv.org/abs/2010.01903](https://arxiv.org/abs/2010.01903). 
+
+**Feed-forward and noise-tolerant detection of feature homogeneity in spiking networks with a latency code.**<br/>
+Schmuker M, Kupper R, Aertsen A, Wachtler T, Gewaltig MO (2021). <br/>
+Biological Cybernetics, *in press*. <br/>
+Preprint: ArXiv q-bio.NC 1806.03881. [https://arxiv.org/abs/1806.03881](https://arxiv.org/abs/1806.03881)  
+
 #### 2020
+
 **More than smell. COVID-19 is associated with severe impairment of smell, taste, and chemesthesis.** <br/>
 Parma V, and members of the GCCR consortium<sup>&ddagger;</sup> (2020). <br/>
 Chemical Senses, 45:609-622. [https://doi.org/10.1093/chemse/bjaa041](https://doi.org/10.1093/chemse/bjaa041) (Open Access).<br/>
@@ -56,7 +62,6 @@ Chemical Senses, 45:609-622. [https://doi.org/10.1093/chemse/bjaa041](https://do
 **Sparse Coding with a Somato-Dendritic rule.<br/>**
 Drix D, Hafner V, Schmuker M (2020).  <br/>
 Neural Networks, 131:37-49. [https://doi.org/10.1016/j.neunet.2020.06.007](https://doi.org/10.1016/j.neunet.2020.06.007) (Open Access).
-
 
 **Computational exploration of molecular receptive fields in the olfactory bulb reveals a glomerulus-centric chemical map.**<br/>
 Jan Soelter, Jan Schumacher, Hartwig Spors, Michael Schmuker (2020).<br/>
