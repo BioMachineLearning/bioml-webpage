@@ -77,7 +77,7 @@ IEEE Signal Processing Magazine 36(6):97-110. <br/>
 
 **An unsupervised neuromorphic clustering algorithm.<br/>**
 Diamond A, Schmuker M, Nowotny T (2019).<br/>
-Biolgical Cybernetics, 113:423-437. [https://doi.org/10.1007/s00422-019-00797-7](https://doi.org/10.1007/s00422-019-00797-7) (Open Access).
+Biological Cybernetics, 113:423-437. [https://doi.org/10.1007/s00422-019-00797-7](https://doi.org/10.1007/s00422-019-00797-7) (Open Access).
 
 #### 2017
 
