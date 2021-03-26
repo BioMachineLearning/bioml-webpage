@@ -4,4 +4,17 @@ published: true
 visible: true
 ---
 
-Sorry, there are no open positions at this time. Please <a href="mailto:m.schmuker@biomachinelearning.net">get in touch</a> for inquiries!
+We currently do not have any vacant positions. 
+
+# PhD projects
+We offer the opportunity to do a PhD project in our lab. Possible topics include:
+
+* Machine Learning in Chemical Space
+* Spiking networks on Neuromorphic Hardware for sensing, inference and control
+* Data Analytics for Neuroscience, Life Sciences, Agriculture.
+
+
+<a href="mailto:m.schmuker@biomachinelearning.net">Send us an email</a> to require, specifying your area of interest.
+
+
+
