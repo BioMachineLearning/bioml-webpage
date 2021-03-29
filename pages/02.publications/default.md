@@ -15,11 +15,10 @@ bioRxiv 810846; [https://doi.org/10.1101/810846](https://doi.org/10.1101/810846)
 
 **Resolving fast gas transients with Metal-Oxide sensors.**<br/>
 Drix D, Schmuker M (2021).<br/>
-ACS Sensors, *in press*. <br/>
-Preprint: ArXiv eess.SP 2010.01903. [https://arxiv.org/abs/2010.01903](https://arxiv.org/abs/2010.01903). 
+ACS Sensors, 6:688-692. [https://doi.org/10.1021/acssensors.0c02006](https://doi.org/10.1021/acssensors.0c02006) (Open Access)
 
 **Exploiting plume structure to decode gas source distance using metal-oxide sensors. <br/>**
-Schmuker M, Bahr V, and Huerta R (2016).Sensors and Actuators B: Chemical 235:636-646. <br/>
+Schmuker M, Bahr V, and Huerta R (2016). Sensors and Actuators B: Chemical 235:636-646. <br/>
 [https://doi.org/10.1016/j.snb.2016.05.098](https://doi.org/10.1016/j.snb.2016.05.098) (paywalled) | [https://arxiv.org/abs/1602.01815](https://arxiv.org/abs/1602.01815) (Open Access)
 
 **Computational exploration of molecular receptive fields in the olfactory bulb reveals a glomerulus-centric chemical map.**<br/>
@@ -44,8 +43,7 @@ Proceedings of the National Academy of Science, 104:20285-20289. [https://doi.or
 
 **Resolving fast gas transients with Metal-Oxide sensors.**<br/>
 Drix D, Schmuker M (2021).<br/>
-ACS Sensors, *in press*. <br/>
-Preprint: ArXiv eess.SP 2010.01903. [https://arxiv.org/abs/2010.01903](https://arxiv.org/abs/2010.01903). 
+ACS Sensors, 6:688-692. [https://doi.org/10.1021/acssensors.0c02006](https://doi.org/10.1021/acssensors.0c02006) (Open Access)
 
 **Feed-forward and noise-tolerant detection of feature homogeneity in spiking networks with a latency code.**<br/>
 Schmuker M, Kupper R, Aertsen A, Wachtler T, Gewaltig MO (2021). <br/>
@@ -88,7 +86,7 @@ IBM J Res Dev. 61(2):5:1-5:12. [https://doi.org/10.1147/JRD.2017.2656063](https:
 #### 2016
 
 **Exploiting plume structure to decode gas source distance using metal-oxide sensors. <br/>**
-Schmuker M, Bahr V, and Huerta R (2016).Sensors and Actuators B: Chemical 235:636-646. <br/>
+Schmuker M, Bahr V, and Huerta R (2016). Sensors and Actuators B: Chemical 235:636-646. <br/>
 [https://doi.org/10.1016/j.snb.2016.05.098](https://doi.org/10.1016/j.snb.2016.05.098) (paywalled) | [https://arxiv.org/abs/1602.01815](https://arxiv.org/abs/1602.01815) (Open Access)
 
 **Classifying continuous, real-time e-nose sensor data using a bio-inspired spiking network modelled on the insect olfactory system.<br/>**
