@@ -7,10 +7,6 @@ published: true
 
 ## Preprints 
 
-**Growth Rules for the Repair of Asynchronous Irregular Neuronal Networks after Peripheral Lesions.<br/>**
-Sinha A, Metzner C, Davey N, Adams R, Schmuker M, Steuber V (2019).<br/>
-bioRxiv 810846; [https://doi.org/10.1101/810846](https://doi.org/10.1101/810846).
-
 ## Representative Papers
 
 **Resolving fast gas transients with Metal-Oxide sensors.**<br/>
@@ -41,14 +37,19 @@ Proceedings of the National Academy of Science, 104:20285-20289. [https://doi.or
 
 #### 2021
 
+**Growth Rules for the Repair of Asynchronous Irregular Neuronal Networks after Peripheral Lesions.<br/>**
+Sinha A, Metzner C, Davey N, Adams R, Schmuker M, Steuber V (2021).<br/>
+PLoS Computational Biology (*in press*).<br/>
+Preprint: bioRxiv 810846; [https://doi.org/10.1101/810846](https://doi.org/10.1101/810846).
+
 **Resolving fast gas transients with Metal-Oxide sensors.**<br/>
 Drix D, Schmuker M (2021).<br/>
 ACS Sensors, 6:688-692. [https://doi.org/10.1021/acssensors.0c02006](https://doi.org/10.1021/acssensors.0c02006) (Open Access)
 
 **Feed-forward and noise-tolerant detection of feature homogeneity in spiking networks with a latency code.**<br/>
 Schmuker M, Kupper R, Aertsen A, Wachtler T, Gewaltig MO (2021). <br/>
-Biological Cybernetics, *in press*. <br/>
-Preprint: ArXiv q-bio.NC 1806.03881. [https://arxiv.org/abs/1806.03881](https://arxiv.org/abs/1806.03881)  
+Biological Cybernetics, 115:161-176. [https://doi.org/10.1007/s00422-021-00866-w](https://doi.org/10.1007/s00422-021-00866-w)<br/>
+Preprint (Open Access): ArXiv q-bio.NC 1806.03881. [https://arxiv.org/abs/1806.03881](https://arxiv.org/abs/1806.03881)  
 
 #### 2020
 
