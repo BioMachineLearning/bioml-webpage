@@ -7,6 +7,10 @@ published: true
 
 ## Preprints 
 
+**Drift in a Popular Metal Oxide Sensor Dataset Reveals Limitations for Gas Classification Benchmarks.**<br/>
+Dennler N, Rastogi S, Fonollosa J, van Schaik A, Schmuker M (2021).<br/>
+ArXiv eess.SP [arXiv:2108.08793](https://arxiv.org/abs/2108.08793)
+
 ## Representative Papers
 
 **Resolving fast gas transients with Metal-Oxide sensors.**<br/>
