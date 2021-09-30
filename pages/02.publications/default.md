@@ -42,7 +42,7 @@ Proceedings of the National Academy of Science, 104:20285-20289. [https://doi.or
 #### 2021
 
 **Active sensing in a dynamic olfactory world.<br/>**
-Crimaldi J, Lei H, Schaefer A, Schmuker M, Smith BH, True AC, Verhgen JV, Victor JD (2021).<br/>
+Crimaldi J, Lei H, Schaefer A, Schmuker M, Smith BH, True AC, Verhagen JV, Victor JD (2021).<br/>
 Journal of Computational Neuroscience, *in press*. [https://doi.org/10.1007/s10827-021-00798-1](https://doi.org/10.1007/s10827-021-00798-1) (Open Access).
 
 **Growth Rules for the Repair of Asynchronous Irregular Neuronal Networks after Peripheral Lesions.<br/>**
