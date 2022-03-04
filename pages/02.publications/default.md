@@ -5,12 +5,6 @@ published: true
 
 # Publications
 
-## Preprints 
-
-**Drift in a Popular Metal Oxide Sensor Dataset Reveals Limitations for Gas Classification Benchmarks.**<br/>
-Dennler N, Rastogi S, Fonollosa J, van Schaik A, Schmuker M (2021).<br/>
-ArXiv eess.SP [arXiv:2108.08793](https://arxiv.org/abs/2108.08793)
-
 ## Representative Papers
 
 **Resolving fast gas transients with Metal-Oxide sensors.**<br/>
@@ -39,11 +33,20 @@ Proceedings of the National Academy of Science, 104:20285-20289. [https://doi.or
 
 ### Peer-reviewed articles
 
-#### 2021
+#### 2022
+
+**Drift in a Popular Metal Oxide Sensor Dataset Reveals Limitations for Gas Classification Benchmarks.**<br/>
+Dennler N, Rastogi S, Fonollosa J, van Schaik A, Schmuker M (2022).<br/>
+Sensors and Actuators B: Chemical, *in press*.<br/>
+Preprint: ArXiv eess.SP [arXiv:2108.08793](https://arxiv.org/abs/2108.08793)
+
 
 **Active sensing in a dynamic olfactory world.<br/>**
-Crimaldi J, Lei H, Schaefer A, Schmuker M, Smith BH, True AC, Verhagen JV, Victor JD (2021).<br/>
-Journal of Computational Neuroscience, *in press*. [https://doi.org/10.1007/s10827-021-00798-1](https://doi.org/10.1007/s10827-021-00798-1) (Open Access).
+Crimaldi J, Lei H, Schaefer A, Schmuker M, Smith BH, True AC, Verhagen JV, Victor JD (2022).<br/>
+Journal of Computational Neuroscience, 50:1-6. [https://doi.org/10.1007/s10827-021-00798-1](https://doi.org/10.1007/s10827-021-00798-1).
+
+
+#### 2021
 
 **Growth Rules for the Repair of Asynchronous Irregular Neuronal Networks after Peripheral Lesions.<br/>**
 Sinha A, Metzner C, Davey N, Adams R, Schmuker M, Steuber V (2021).<br/>
