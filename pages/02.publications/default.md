@@ -37,7 +37,7 @@ Proceedings of the National Academy of Science, 104:20285-20289. [https://doi.or
 
 **Drift in a Popular Metal Oxide Sensor Dataset Reveals Limitations for Gas Classification Benchmarks.**<br/>
 Dennler N, Rastogi S, Fonollosa J, van Schaik A, Schmuker M (2022).<br/>
-Sensors and Actuators B: Chemical, *in press*.<br/>
+Sensors and Actuators B: Chemical, *in press*. [https://doi.org/10.1016/j.snb.2022.131668](https://doi.org/10.1016/j.snb.2022.131668)<br/>
 Preprint: ArXiv eess.SP [arXiv:2108.08793](https://arxiv.org/abs/2108.08793)
 
 
