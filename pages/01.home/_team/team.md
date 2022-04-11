@@ -6,7 +6,7 @@ people:
     -
         name: 'Michael Schmuker'
         pic: Michael-crop.jpg
-        position: 'Reader in Data Science<br/>Team lead'
+        position: 'Professor of Neural Computation<br/>Team lead'
         email: 'm.schmuker@biomachinelearning.net'
     -
         name: 'Ritesh Kumar'
@@ -36,7 +36,7 @@ people:
     -
         name: 'Shavika Rastogi'
         pic: Shavika-crop.jpg
-        position: 'ERASMUS+ fellow (Alumna)'
+        position: 'PhD student (Dual award WSU)'
         email: 'rastogi.shavika@gmail.com'
 ---
 
