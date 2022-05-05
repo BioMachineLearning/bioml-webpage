@@ -37,9 +37,12 @@ Proceedings of the National Academy of Science, 104:20285-20289. [https://doi.or
 
 **Drift in a Popular Metal Oxide Sensor Dataset Reveals Limitations for Gas Classification Benchmarks.**<br/>
 Dennler N, Rastogi S, Fonollosa J, van Schaik A, Schmuker M (2022).<br/>
-Sensors and Actuators B: Chemical, *in press*. [https://doi.org/10.1016/j.snb.2022.131668](https://doi.org/10.1016/j.snb.2022.131668)<br/>
-Preprint: ArXiv eess.SP [arXiv:2108.08793](https://arxiv.org/abs/2108.08793)
+Sensors and Actuators B: Chemical, 361:131668. [https://doi.org/10.1016/j.snb.2022.131668](https://doi.org/10.1016/j.snb.2022.131668) (Open Access).<br/>
 
+
+**Rapid Inference of Geographical Location with an Event-based Electronic Nose.**<br/>
+Dennler N, Drix D, Rastogi S, van Schaik A, Schmuker M (2022).<br/>
+In Neuro-Inspired Computational Elements Conference (NICE 2022). Association for Computing Machinery, New York, NY, USA, 112–114. [https://doi.org/10.1145/3517343.3517381](https://doi.org/10.1145/3517343.3517381) | [Download PDF](https://researchprofiles.herts.ac.uk/portal/files/26924696/Accepted_Manuscript_nice2022_37.pdf)
 
 **Active sensing in a dynamic olfactory world.<br/>**
 Crimaldi J, Lei H, Schaefer A, Schmuker M, Smith BH, True AC, Verhagen JV, Victor JD (2022).<br/>
