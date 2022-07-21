@@ -31,16 +31,13 @@ NeuroImage 98:279-288. [https://doi.org/10.1016/j.neuroimage.2014.04.041](https:
 Schmuker M, Schneider G (2007). <br/>
 Proceedings of the National Academy of Science, 104:20285-20289. [https://doi.org/10.1073/pnas.0705683104](https://doi.org/10.1073/pnas.0705683104) (Open Access)
 
-### Preprint
-
-**Mapping odorant sensitivities reveals a sparse but structured representation of olfactory chemical space by sensory input to the mouse olfactory bulb.**<br/>
-Burton SD, Brown A, Eiting TP, Youngstrom IA, Rust TC, Schmuker M, Wachowiak M (2022). <br/>
-bioRxiv 2022.05.11.491539. [https://doi.org/10.1101/2022.05.11.491539](https://doi.org/10.1101/2022.05.11.491539)
-
-
 ### Peer-reviewed articles
 
 #### 2022
+
+**Mapping odorant sensitivities reveals a sparse but structured representation of olfactory chemical space by sensory input to the mouse olfactory bulb.**<br/>
+Burton SD, Brown A, Eiting TP, Youngstrom IA, Rust TC, Schmuker M, Wachowiak M (2022). <br/>
+*eLife*, *in press*. Preprint: bioRxiv 2022.05.11.491539. [https://doi.org/10.1101/2022.05.11.491539](https://doi.org/10.1101/2022.05.11.491539)
 
 **Drift in a Popular Metal Oxide Sensor Dataset Reveals Limitations for Gas Classification Benchmarks.**<br/>
 Dennler N, Rastogi S, Fonollosa J, van Schaik A, Schmuker M (2022).<br/>
