@@ -1,5 +1,5 @@
 ---
-title: 'ECRO Special Interest Group Computational Chemosensation'
+title: 'ECRO SIG Computational Chemosensation'
 published: true
 visible: true
 ---
