@@ -9,11 +9,6 @@ people:
         position: 'Professor of Neural Computation<br/>Team lead'
         email: 'm.schmuker@biomachinelearning.net'
     -
-        name: 'Damien Drix'
-        pic: Damien-crop.jpg
-        position: 'Research Fellow'
-        email: 'd.drix@herts.ac.uk'
-    -
         name: 'Sam Sutton'
         pic: Sam-crop.jpg
         position: 'Research Fellow'

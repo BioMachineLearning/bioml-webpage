@@ -3,6 +3,11 @@ title: 'Alumni'
 menu: People
 people:
     -
+        name: 'Damien Drix'
+        pic: Damien-crop.jpg
+        position: 'Research Fellow'
+        email: 'd.drix@herts.ac.uk'
+    -
         name: 'Ritesh Kumar'
         pic: Ritesh-crop.jpg
         position: 'Royal Society Newton Fellow'
