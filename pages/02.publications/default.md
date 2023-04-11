@@ -43,6 +43,9 @@ eLife, 11:e80470. [https://doi.org/10.7554/eLife.80470](https://doi.org/10.7554/
 Dennler N, Rastogi S, Fonollosa J, van Schaik A, Schmuker M (2022).<br/>
 Sensors and Actuators B: Chemical, 361:131668. [https://doi.org/10.1016/j.snb.2022.131668](https://doi.org/10.1016/j.snb.2022.131668) (Open Access).<br/>
 
+**Rapid Recognition of Olfactory Scenes with a Portable MOx Sensor System using Hotplate Modulation**<br/>
+Drix D, Dennler N, Schmuker M (2022).<br/>
+In 2022 IEEE International Symposium on Olfaction and Electronic Nose (ISOEN). Aveiro, Portugal, 2022, 1-4. [https://doi.org/10.1109/ISOEN54820.2022.9789654](https://doi.org/10.1109/ISOEN54820.2022.9789654) | [Download PDF](https://researchprofiles.herts.ac.uk/files/27829143/Submited_paper_.pdf)
 
 **Rapid Inference of Geographical Location with an Event-based Electronic Nose.**<br/>
 Dennler N, Drix D, Rastogi S, van Schaik A, Schmuker M (2022).<br/>
