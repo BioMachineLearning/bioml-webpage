@@ -9,6 +9,11 @@ people:
         position: 'Professor of Neural Computation<br/>Team lead'
         email: 'm.schmuker@biomachinelearning.net'
     -
+        name: 'Chiemela S. Odoemelam'
+        pic: Chiemela.jpg
+        position: 'Research Fellow'
+        email: 'c.odoemelam@herts.ac.uk'
+    -
         name: 'Sam Sutton'
         pic: Sam-crop.jpg
         position: 'Research Fellow'
