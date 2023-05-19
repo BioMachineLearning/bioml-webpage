@@ -4,7 +4,7 @@ published: true
 visible: true
 ---
 
-# Running vacancies
+# Short-term postdoc vacancies
 We do have project money for short-term appointments ranging from a couple of months to a year. Please do get in touch if you are interested to work on olfaction in animals and machines!
 
 
